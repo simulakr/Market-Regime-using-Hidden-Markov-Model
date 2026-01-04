@@ -2,4 +2,4 @@
 
 ## Buy & Hold vs. HMM Strategy
   
-![Results](strategy_comparison.PNG)
+![Results](strategy_comparison.png)
